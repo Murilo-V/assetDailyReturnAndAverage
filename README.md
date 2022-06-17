@@ -1,0 +1,1 @@
+# Calcular retorno diário e média deste retorno de um ativo financeiro
